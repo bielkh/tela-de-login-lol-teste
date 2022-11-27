@@ -197,6 +197,10 @@ main {
     font-weight: 700;
 }
 
+.login_link:hover {
+    color: var(--deep-blue);
+}
+
 .video{
     width: 100%;
   height: 100vh;
